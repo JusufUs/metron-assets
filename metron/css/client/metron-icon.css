@@ -83,7 +83,7 @@
     /*margin-bottom: 16px;*/
     }
     .btn-ssr,.btn-SSR {
-    background: linear-gradient(to right, #bf197d, #bf197db8) !important;
+    background: linear-gradient(to right, #bf197d, #c7348d) !important;
     color: white !important;
     border-color: transparent;
     border: none;
